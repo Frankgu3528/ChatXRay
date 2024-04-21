@@ -1,8 +1,11 @@
-<img src="./img/logo.png" style="zoom: 25%;" />
-
+<p align="center">  
+  <img src="./img/logo.png" alt="img" width="700" />  
+</p>  
 <u>ChatXRay</u> is a Multimodel chatbot that input chest radiographs and generate medical report. You can find my paper [here](./final.pdf).
 
-<img src="./img/demo.jpg" alt="img" style="zoom: 6%;" />
+<p align="center">  
+  <img src="./img/demo.jpg" alt="img" width="500" />  
+</p>  
 
 ## Quick-Start
 
