@@ -1,11 +1,8 @@
-![](./img/logo.png)
+<img src="./img/logo.png" style="zoom: 25%;" />
 
 <u>ChatXRay</u> is a Multimodel chatbot that input chest radiographs and generate medical report. You can find my paper [here](./final.pdf).
 
-‼️**Highly recommended to refer to more organized code at [https://github.com/Frankgu3528/ChatXRay](https://github.com/Frankgu3528/ChatXRay). **
-
-
-![img](./img/demo.jpg)
+<img src="./img/demo.jpg" alt="img" style="zoom: 6%;" />
 
 ## Quick-Start
 
